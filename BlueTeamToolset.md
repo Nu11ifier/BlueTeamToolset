@@ -12,6 +12,8 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * Add SIEMs
 * Create a category with a list of different blacklists
 * Create a category with a list of different IDS/IPS rulesets
+* Add table of content
+* Add fast search navigation
 
 
 - - - 
