@@ -1,4 +1,4 @@
-# Hackers Toolset (Blue Team/Red Team) - ACTIVELY UPDATED
+# Hackers Toolset (Blue Team) - ACTIVELY UPDATED
 Repository with bunch of tools and resources for hacking, cyber threat intelligence, etc.
 
 The resources are sorted by categories and subcategories.
