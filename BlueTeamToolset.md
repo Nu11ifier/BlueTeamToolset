@@ -19,8 +19,11 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 ## Cyber Threat Intelligence Sharing
 
+### Formats
 * [TAXII - The Trusted Automated eXchange of Indicator Information](https://oasis-open.github.io/cti-documentation/taxii/intro)
 * [STIX - Structured Threat Information Expression](https://oasis-open.github.io/cti-documentation/stix/intro)
+
+### Platforms
 * [MISP - Malware Information Sharing Platform](https://www.misp-project.org/)
 * [OPENCTI - Open Cyber Threat Intelligence Platform](https://www.filigran.io/en/products/opencti/)
 
