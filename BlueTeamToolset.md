@@ -7,6 +7,13 @@ As an example if you have a IP address that you think is malicious, you can go t
 
 NOTE: If there is anything you see wrong, or need to be added, you are free to contribute and I will try look into it. I will also try to improve the structure for easier nagivation.
 
+### ToDo
+* Add more tools
+* Add SIEMs
+* Create a category with a list of different blacklists
+* Create a category with a list of different IDS/IPS rulesets
+
+
 - - - 
 
 ## Cyber Defence Frameworks
