@@ -15,7 +15,55 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * Add table of content
 * Add fast search navigation
 
+## Cyber Threat Intelligence Tools (Input based on what intelligence you have)
 
+### IOC
+* [ThreatFox](https://threatfox.abuse.ch/browse/) (IP:PORT, Domain, URL)
+* [VirusTotal](https://www.virustotal.com/gui/home/search)
+
+### IP
+* [VirusTotal](https://www.virustotal.com/gui/home/search)
+* [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
+* [Feodotracker Botnet C&Cs](https://feodotracker.abuse.ch/browse/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
+
+### Domain
+* [DNSdumpster](https://dnsdumpster.com/)
+* [UrlScan.io](https://urlscan.io/)
+* [VirusTotal](https://www.virustotal.com/gui/home/url)
+* [URLhaus](https://urlhaus.abuse.ch/browse/)
+* [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
+
+### URL
+* [UrlScan.io](https://urlscan.io/)
+* [VirusTotal](https://www.virustotal.com/gui/home/url)
+* [URLhaus](https://urlhaus.abuse.ch/browse/)
+
+### File Hash
+* [VirusTotal](https://www.virustotal.com/gui/home/search) - *(MD5, SHA1, SHA256)*
+* [URLhaus](https://urlhaus.abuse.ch/browse/) - *(MD5, SHA256)*
+* [YARAify Search](https://yaraify.abuse.ch/search/) - *(MD5, SHA1, SHA256, SHA3-384)*
+* [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) - *(MD5, SHA1, SHA256, SHA3-384)*
+
+### File Upload
+* [YARAify File Scan](https://yaraify.abuse.ch/scan/)
+* [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+### SSL Certificates/Fingerprints
+* [SSL Certificates](https://sslbl.abuse.ch/ssl-certificates/) *(SHA1)*
+* [JA3 Fingerprints](https://sslbl.abuse.ch/ja3-fingerprints/)
+    
+### ASN/COUNTRY/TLD Feeds
+* [URLhaus Feeds](https://urlhaus.abuse.ch/feeds/)
+
+#### AS NAME/AS NUMBER
+* [Feodotracker Botnet C&Cs](https://feodotracker.abuse.ch/browse/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
+
+### Email File (Phising Analysis Tools)
+* [PhishTool](https://www.phishtool.com/)
+
+- - - 
+- - - 
+- - - 
 - - - 
 
 ## Cyber Defence Frameworks
@@ -38,69 +86,6 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 - - - 
 
-## Cyber Threat Intelligence
-
-### URL
-* [UrlScan.io](https://urlscan.io/)
-* [VirusTotal](https://www.virustotal.com/gui/home/url)
-* [URLhaus](https://urlhaus.abuse.ch/browse/)
-
-### Domain
-* [DNSdumpster](https://dnsdumpster.com/)
-* [UrlScan.io](https://urlscan.io/)
-* [VirusTotal](https://www.virustotal.com/gui/home/url)
-* [URLhaus](https://urlhaus.abuse.ch/browse/)
-* [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
-
-### File Hash
-* [VirusTotal](https://www.virustotal.com/gui/home/search) - *(MD5, SHA1, SHA256)*
-* [URLhaus](https://urlhaus.abuse.ch/browse/) - *(MD5, SHA256)*
-* [YARAify Search](https://yaraify.abuse.ch/search/) - *(SHA256)*
-* [MalwareBazaar Database](https://bazaar.abuse.ch/browse/) - *(SHA256)*
-
-### IP
-* [VirusTotal](https://www.virustotal.com/gui/home/search)
-* [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
-* [Browse Botnet C&Cs](https://feodotracker.abuse.ch/browse/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
-
-### File
-* [YARAify](https://yaraify.abuse.ch/)
-    - [YARAify File Scan](https://yaraify.abuse.ch/scan/)
-    - [YARAhub](https://yaraify.abuse.ch/yarahub/)
-    - [YARAify Search](https://yaraify.abuse.ch/search/)
-* [VirusTotal](https://www.virustotal.com/gui/home/upload)
-
-### IOC
-* [ThreatFox](https://threatfox.abuse.ch/browse/)
-* [VirusTotal](https://www.virustotal.com/gui/home/search)
-
-### Malware
-* [MalwareBazaar Database](https://bazaar.abuse.ch/browse/)
-
-### SSL
-* [SSLBL](https://sslbl.abuse.ch/)
-    - [SSL Certificates](https://sslbl.abuse.ch/ssl-certificates/)
-    - [JA3 Fingerprints](https://sslbl.abuse.ch/ja3-fingerprints/)
-    - [Blacklists](https://sslbl.abuse.ch/blacklist/)
-    
-### Botnet
-* [Feodo Tracker](https://feodotracker.abuse.ch/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
-    - [Browse Botnet C&Cs](https://feodotracker.abuse.ch/browse/)
-    - [Blocklists](https://feodotracker.abuse.ch/blocklist/)
-
-### ASN/COUNTRY/TLD Feeds
-* [URLhaus Feeds](https://urlhaus.abuse.ch/feeds/)
-
-#### AS NAME/AS NUMBER
-* [Browse Botnet C&Cs](https://feodotracker.abuse.ch/browse/)
-
-- - - 
-
-### Phising Analysis Tools
-* [PhishTool](https://www.phishtool.com/)
-
-- - - 
-
 ## Rule based detection tools
 ### Files
 * [YARA](https://virustotal.github.io/yara/)
@@ -116,4 +101,17 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 ## IPS
 * [SNORT](https://www.snort.org/)
 
+## Blacklists/Rulesets
+* [Botnet](https://feodotracker.abuse.ch/blocklist/) *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)* 
+* [Botnet/SSL/JA3](https://sslbl.abuse.ch/blacklist/)
+
 ## SIEM
+* [Splunk](https://www.splunk.com/)
+* [Elastic Stack](https://www.elastic.co/elastic-stack?elektra=home&storm=stack)
+    - [Elasticsearch](https://www.elastic.co/elasticsearch/)
+    - [Kibana](https://www.elastic.co/kibana/)
+    - [Integrations](https://www.elastic.co/integrations/)
+
+## EXTRA (To be categorized)
+* [YARAhub](https://yaraify.abuse.ch/yarahub/)
+* [YARAify Search](https://yaraify.abuse.ch/search/)
