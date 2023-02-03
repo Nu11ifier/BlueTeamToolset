@@ -9,8 +9,8 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 ### ToDo
 * Add more tools
-* Add SIEMs
-* Create a category with a list of different blacklists
+* Add more SIEMs
+* Add news category
 * Create a category with a list of different IDS/IPS rulesets
 * Add table of content
 * Add fast search navigation
