@@ -130,7 +130,6 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [YARA](https://virustotal.github.io/yara/)
 
 #### YARA Rules<a name="yara-rules"></a>
-* [YAIDS](https://yaids.io/)
 
 #### YARA Tools<a name="yara-tools"></a>
 * [YAIDS](https://yaids.io/)
@@ -140,10 +139,9 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [SNORT](https://www.snort.org/)
 
 #### SNORT Rules<a name="snort-rules"></a>
-* [YAIDS](https://yaids.io/)
 
 #### SNORT Tools <a name="snort-tools"></a>
-* [SNORT](https://www.snort.org/)
+
 
 
 ### SIGMA (Log Files) <a name="sigma"></a>
