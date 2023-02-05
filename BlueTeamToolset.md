@@ -3,48 +3,47 @@ Repository with bunch of tools and resources for cyber threat intelligence, etc.
 
 The resources are sorted by categories and subcategories.
 
-As an example if you have a IP address that you think is malicious, you can go to the IP section of "Cyber Threat Intelligence" and use the resources to input the IP.
+As an example if you have a IP address that you think is malicious, you can go to the IP section of "Cyber Threat Intelligence Tools" and use the resources to input the IP.
 
 NOTE: If there is anything you see wrong, or need to be added, you are free to contribute and I will try look into it. I will also try to improve the structure for easier nagivation.                               
 
-### ToDo
+### ToDo (Completed ToDo's will be removed)
 * Add more tools - In Progress
 * Add more SIEMs - In Progress
-* Add table of content - In Progress
-* Fix table of content formating - In Progress
 * Add resources to news category
 * Add rules and tools to "rule-based formats category)" (Maybe change name of category?)
+* Add descriptions
 
 
 
 
 # Table of Contents
-1. [Cyber Threat Intelligence Tools (Input based on what intelligence you have)](#cyber-threat-intelligence-tools)\
-    1.1 [IOC](#ioc)\
-    1.2 [IP](#ip)\
-    1.3 [Domain](#domain)\
-    1.4 [URL](#url)\
-    1.5 [File Hash](#file-hash)\
-    1.6 [File Upload](#file-upload)\
-    1.7 [SSL Certificates/Fingerprints](#ssl)\
-    1.8 [ASN/COUNTRY/TLD Feeds](#asn-feeds)\
-    1.9 [AS NAME/AS NUMBER](#as-name-number)\
-    1.10 [Email File (Phising Analysis Tools)](#email-file)
+1. [Cyber Threat Intelligence Tools (Input based on what intelligence you have)](#cyber-threat-intelligence-tools)
+   - 1.1 [IOC](#ioc)
+   - 1.2 [IP](#ip)
+   - 1.3 [Domain](#domain)
+   - 1.4 [URL](#url)
+   - 1.5 [File Hash](#file-hash)
+   - 1.6 [File Upload](#file-upload)
+   - 1.7 [SSL Certificates/Fingerprints](#ssl)
+   - 1.8 [ASN/COUNTRY/TLD Feeds](#asn-feeds)
+   - 1.9 [AS NAME/AS NUMBER](#as-name-number)
+   - 1.10 [Email File (Phising Analysis Tools)](#email-file)
 2. [Cyber Defence Frameworks](#cyber-defence-frameworks)
-3. [Cyber Threat Intelligence](#cyber-threat-intelligence-sharing)\
-    3.1 [Formats](#formats)\
-    3.2 [Platforms](#platforms)
+3. [Cyber Threat Intelligence](#cyber-threat-intelligence-sharing)
+    - 3.1 [Formats](#formats)
+    - 3.2 [Platforms](#platforms)
 4. [Cyber Threat Intelligence News](#cyber-threat-intelligence-news)
-5. [Rule-based Formats](#cyber-threat-intelligence-rule-based-formats)\
-    5.1 [YARA (Files)](#yara)\
-        5.1.1 [YARA Rules](#yara-rules)\
-        5.1.2 [YARA Tools](#yara-tools)\
-    5.2 [SNORT (Network Traffic)](#snort)\
-        5.2.1 [SNORT Rules](#snort-rules)\
-        5.2.2 [SNORT Tools](#snort-tools)\
-    5.3 [SIGMA (Log Files)](#sigma)\
-        5.3.1 [SIGMA Rules](#sigma-rules)\
-        5.3.2 [SIGMA Tools](#sigma-tools)
+5. [Rule-based Formats](#cyber-threat-intelligence-rule-based-formats)
+    - 5.1 [YARA (Files)](#yara)
+        + 5.1.1 [YARA Rules](#yara-rules)
+        + 5.1.2 [YARA Tools](#yara-tools)
+    - 5.2 [SNORT (Network Traffic)](#snort)
+        + 5.2.1 [SNORT Rules](#snort-rules)
+        + 5.2.2 [SNORT Tools](#snort-tools)
+    - 5.3 [SIGMA (Log Files)](#sigma)
+        + 5.3.1 [SIGMA Rules](#sigma-rules)
+        + 5.3.2 [SIGMA Tools](#sigma-tools)
         
 
 
@@ -130,9 +129,10 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [YARA](https://virustotal.github.io/yara/)
 
 #### YARA Rules<a name="yara-rules"></a>
+* [Awesome-yara](https://github.com/InQuest/awesome-yara#rules)
 
 #### YARA Tools<a name="yara-tools"></a>
-* [YAIDS](https://yaids.io/)
+* [Awesome-yara](https://github.com/InQuest/awesome-yara#tools)
 
 
 ### SNORT (Network Traffic) <a name="snort"></a>
@@ -150,6 +150,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 #### SIGMA Rules <a name="sigma-rules"></a>
 
 #### SIGMA Tools <a name="sigma-tools"></a>
+* [Sigmac](https://github.com/SigmaHQ/sigma)
 
 
 
