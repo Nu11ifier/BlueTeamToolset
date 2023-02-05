@@ -58,6 +58,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [VirusTotal](https://www.virustotal.com/gui/home/search)
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
 * [Feodotracker Botnet C&Cs](https://feodotracker.abuse.ch/browse/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
+* [SHODAN](https://www.shodan.io/)
 
 ### Domain <a name="domain"></a>
 * [DNSdumpster](https://dnsdumpster.com/)
@@ -65,6 +66,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [VirusTotal](https://www.virustotal.com/gui/home/url)
 * [URLhaus](https://urlhaus.abuse.ch/browse/)
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
+* [SHODAN](https://www.shodan.io/)
 
 ### URL <a name="url"></a>
 * [UrlScan.io](https://urlscan.io/)
@@ -80,6 +82,9 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 ### File Upload <a name="file-upload"></a>
 * [YARAify File Scan](https://yaraify.abuse.ch/scan/)
 * [VirusTotal](https://www.virustotal.com/gui/home/upload)
+
+### Keyword <a name="keyword"></a>
+* [SHODAN](https://www.shodan.io/)
 
 ### SSL Certificates/Fingerprints <a name="ssl"></a>
 * [SSL Certificates](https://sslbl.abuse.ch/ssl-certificates/) *(SHA1)*
