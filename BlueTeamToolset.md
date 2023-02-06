@@ -10,8 +10,9 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 ### ToDo (Completed ToDo's will be removed)
 * Add more tools - In Progress
 * Add more SIEMs - In Progress
-* Add resources to news category
-* Add rules and tools to "rule-based formats category)" (Maybe change name of category?)
+* Add resources to news category - In Progress
+* Add rules and tools to "rule-based formats category)" (Maybe change name of category?) - In Progress
+* Network Forensics Analysis Tools Category
 * Add descriptions
 
 
@@ -25,10 +26,11 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
    - 1.4 [URL](#url)
    - 1.5 [File Hash](#file-hash)
    - 1.6 [File Upload](#file-upload)
-   - 1.7 [SSL Certificates/Fingerprints](#ssl)
-   - 1.8 [ASN/COUNTRY/TLD Feeds](#asn-feeds)
-   - 1.9 [AS NAME/AS NUMBER](#as-name-number)
-   - 1.10 [Email File (Phising Analysis Tools)](#email-file)
+   - 1.7 [Keyword](#keyword)
+   - 1.8 [SSL Certificates/Fingerprints](#ssl)
+   - 1.9 [ASN/COUNTRY/TLD Feeds](#asn-feeds)
+   - 1.10 [AS NAME/AS NUMBER](#as-name-number)
+   - 1.11 [Email File (Phising Analysis Tools)](#email-file)
 2. [Cyber Defence Frameworks](#cyber-defence-frameworks)
 3. [Cyber Threat Intelligence](#cyber-threat-intelligence-sharing)
     - 3.1 [Formats](#formats)
