@@ -61,6 +61,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
 * [Feodotracker Botnet C&Cs](https://feodotracker.abuse.ch/browse/) - *(Emotet, TrickBot, Dridex, QakBot, BazarLoader, BumbleBee)*
 * [SHODAN](https://www.shodan.io/)
+* [AbuseIPDB](https://www.abuseipdb.com/)
 
 ### Domain <a name="domain"></a>
 * [DNSdumpster](https://dnsdumpster.com/)
@@ -69,6 +70,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 * [URLhaus](https://urlhaus.abuse.ch/browse/)
 * [Cisco Talos Intelligence](https://talosintelligence.com/reputation_center)
 * [SHODAN](https://www.shodan.io/)
+* [AbuseIPDB](https://www.abuseipdb.com/)
 
 ### URL <a name="url"></a>
 * [UrlScan.io](https://urlscan.io/)
