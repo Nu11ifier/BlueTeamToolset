@@ -19,7 +19,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 
 # Table of Contents
-1. [Cyber Threat Intelligence Tools (Input based on what intelligence you have)](#cyber-threat-intelligence-tools)
+1. [Cyber Threat Intelligence Tools (Input based on what intelligence you have)](#cyber-threat-intelligence-sources)
    - 1.1 [IOC](#ioc)
    - 1.2 [IP](#ip)
    - 1.3 [Domain](#domain)
@@ -50,7 +50,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 
 
-## Cyber Threat Intelligence Tools (Input based on what intelligence you have) <a name="cyber-threat-intelligence-tools"></a>
+## Cyber Threat Intelligence Sources (Input based on what intelligence you have) <a name="cyber-threat-intelligence-sources"></a>
 
 ### IOC <a name="ioc"></a>
 * [ThreatFox](https://threatfox.abuse.ch/browse/) (IP:PORT, Domain, URL)
@@ -119,6 +119,13 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 ### Formats <a name="formats"></a>
 * [TAXII - The Trusted Automated eXchange of Indicator Information](https://oasis-open.github.io/cti-documentation/taxii/intro)
 * [STIX - Structured Threat Information Expression](https://oasis-open.github.io/cti-documentation/stix/intro)
+* [MAEC - Malware Attribute Enumeration and Characterization](https://maecproject.github.io/)
+* [VERIS - Vocabulary for Event Recording and Incident Sharing](http://veriscommunity.net/index.html)
+* [CAPEC - Common Attack Pattern Enumeration and Classification](https://capec.mitre.org/)
+* [CybOX - Cyber Observable eXpression](https://cyboxproject.github.io/)
+* [IODEF (RFC5070) - Incident Object Description Exchange Format](https://www.rfc-editor.org/rfc/rfc5070)
+* [IDMEF (RFC4765) - Intrusion Detection Message Exchange Format](https://www.rfc-editor.org/rfc/rfc4765)
+
 
 ### Platforms <a name="platforms"></a>
 * [MISP - Malware Information Sharing Platform](https://www.misp-project.org/)
