@@ -1,4 +1,4 @@
-# Blue Team Toolset - ACTIVELY UPDATED
+# Blue Team Toolset
 Repository with bunch of tools and resources for cyber threat intelligence, etc.
 
 The resources are sorted by categories and subcategories.
@@ -103,6 +103,7 @@ NOTE: If there is anything you see wrong, or need to be added, you are free to c
 
 ### Email File (Phising Analysis Tools) <a name="email-file"></a>
 * [PhishTool](https://www.phishtool.com/)
+* [Internet.nl](https://internet.nl/)
 
 - - - 
 - - - 
